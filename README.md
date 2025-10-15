@@ -12,3 +12,23 @@ It demonstrates:
 - demo.txt — Example text file for demonstration
 - README.md — Documentation for the project
 
+- # My GitHub Demo Project
+
+##  Description
+This repository demonstrates basic GitHub operations:
+- Branching and merging with Pull Requests
+- Managing Issues and Labels
+- Organizing work using a Project Board
+- Adding documentation and demo files
+
+##  Files
+- README.md — Project documentation  
+- demo.txt — Simple demo file
+
+##  How to Run
+Just open `demo.txt` to read the example content.
+
+##  Author
+Shahd Ayman
+
+
